@@ -4,5 +4,8 @@
   "idf.toolsPathWin": "C:\\Users\\clebe\\.espressif",
   "idf.pythonInstallPath": "C:\\Users\\clebe\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
   "idf.portWin": "COM7",
-  "idf.flashType": "UART"
+  "idf.flashType": "UART",
+  "files.associations": {
+    "stdlib.h": "c"
+  }
 }
